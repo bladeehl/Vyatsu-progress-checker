@@ -1,5 +1,0 @@
-{
-    "auth.remember": {"en": "Remember me", "ru": "Запомнить меня"},
-    "auth.password": {"en": "Password", "ru": "Пароль"},
-    "auth.login": {"en": "Log in", "ru": "Войти"}
-}
